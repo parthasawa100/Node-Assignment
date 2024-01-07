@@ -49,8 +49,7 @@ Welcome to the world of Node.js development! This assignment outlines the key fe
 ### Image Storage
 
 11. **Profile Image:**
-   - Save profile images in the local system or integrate with a third-party service.
-   - Ensure that image URLs work, at least in the local environment.
+   - Save profile images integrate with a third-party service Cloudinary.
 
 ### Database and Framework
 
@@ -58,7 +57,7 @@ Welcome to the world of Node.js development! This assignment outlines the key fe
    - Utilize Express.js for API development.
 
 13. **Database:**
-   - Choose between MongoDB or Firebase for the database.
+   - Choosed MongoDB for the database.
 
 ### Data Validation
 
